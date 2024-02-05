@@ -53,5 +53,3 @@ export default function () {
 
     sleep(1);
 }
-
-// Esperados = 2s Actual =
